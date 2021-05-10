@@ -29,6 +29,9 @@ On booting the leds are used to indicate the error conditions:
 - Error led & X axis led **->** cannot set resolution
 - Error led & Y axis led **->** cannot set remote mode
 
+## Compiled code
+Here are the hex files which contain the compiled code for interfacing with [Atari](binaries/A2Mouse.production-atari.hex) and [Amiga](binaries/A2Mouse.production-amiga.hex)
+
 ## The schematic
 ![Schematic](hardware/schematic.jpg)
 
